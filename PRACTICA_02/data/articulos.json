@@ -1,0 +1,453 @@
+[
+    {
+      "id": 1,
+      "nombre": "Laptop",
+      "descripcion": "Laptop de alto rendimiento",
+      "precio": 1200.50,
+      "stock": 10,
+      "categoria": "Electrónica",
+      "fecha_ingreso": "2023-09-20"
+    },
+    {
+      "id": 2,
+      "nombre": "Smartphone",
+      "descripcion": "Teléfono móvil con pantalla AMOLED",
+      "precio": 800.00,
+      "stock": 50,
+      "categoria": "Electrónica",
+      "fecha_ingreso": "2023-08-15"
+    },
+    {
+      "id": 3,
+      "nombre": "Impresora",
+      "descripcion": "Impresora multifunción a color",
+      "precio": 150.75,
+      "stock": 25,
+      "categoria": "Oficina",
+      "fecha_ingreso": "2023-09-01"
+    },
+    {
+      "id": 4,
+      "nombre": "Teclado mecánico",
+      "descripcion": "Teclado mecánico con retroiluminación RGB",
+      "precio": 75.99,
+      "stock": 40,
+      "categoria": "Accesorios",
+      "fecha_ingreso": "2023-07-22"
+    },
+    {
+      "id": 5,
+      "nombre": "Monitor 4K",
+      "descripcion": "Monitor de 27 pulgadas 4K UHD",
+      "precio": 350.00,
+      "stock": 15,
+      "categoria": "Electrónica",
+      "fecha_ingreso": "2023-08-10"
+    },
+    {
+      "id": 6,
+      "nombre": "Cámara digital",
+      "descripcion": "Cámara digital con lente intercambiable",
+      "precio": 900.00,
+      "stock": 20,
+      "categoria": "Fotografía",
+      "fecha_ingreso": "2023-06-05"
+    },
+    {
+      "id": 7,
+      "nombre": "Altavoces Bluetooth",
+      "descripcion": "Altavoces portátiles con conexión Bluetooth",
+      "precio": 50.25,
+      "stock": 60,
+      "categoria": "Audio",
+      "fecha_ingreso": "2023-08-29"
+    },
+    {
+      "id": 8,
+      "nombre": "Mouse inalámbrico",
+      "descripcion": "Mouse inalámbrico ergonómico",
+      "precio": 25.99,
+      "stock": 80,
+      "categoria": "Accesorios",
+      "fecha_ingreso": "2023-07-18"
+    },
+    {
+      "id": 9,
+      "nombre": "Silla ergonómica",
+      "descripcion": "Silla de oficina ergonómica ajustable",
+      "precio": 180.50,
+      "stock": 35,
+      "categoria": "Oficina",
+      "fecha_ingreso": "2023-08-12"
+    },
+    {
+      "id": 10,
+      "nombre": "Tablet",
+      "descripcion": "Tablet de 10 pulgadas con pantalla HD",
+      "precio": 250.00,
+      "stock": 30,
+      "categoria": "Electrónica",
+      "fecha_ingreso": "2023-07-25"
+    },
+    {
+      "id": 11,
+      "nombre": "Router Wi-Fi",
+      "descripcion": "Router Wi-Fi de doble banda",
+      "precio": 90.50,
+      "stock": 20,
+      "categoria": "Redes",
+      "fecha_ingreso": "2023-08-05"
+    },
+    {
+      "id": 12,
+      "nombre": "Lámpara LED",
+      "descripcion": "Lámpara de escritorio LED ajustable",
+      "precio": 35.75,
+      "stock": 45,
+      "categoria": "Hogar",
+      "fecha_ingreso": "2023-06-15"
+    },
+    {
+      "id": 13,
+      "nombre": "Disco duro externo",
+      "descripcion": "Disco duro externo de 1TB",
+      "precio": 120.00,
+      "stock": 55,
+      "categoria": "Almacenamiento",
+      "fecha_ingreso": "2023-08-09"
+    },
+    {
+      "id": 14,
+      "nombre": "Auriculares",
+      "descripcion": "Auriculares con cancelación de ruido",
+      "precio": 200.99,
+      "stock": 25,
+      "categoria": "Audio",
+      "fecha_ingreso": "2023-07-31"
+    },
+    {
+      "id": 15,
+      "nombre": "Proyector",
+      "descripcion": "Proyector de video portátil",
+      "precio": 350.75,
+      "stock": 10,
+      "categoria": "Electrónica",
+      "fecha_ingreso": "2023-07-14"
+    },
+    {
+      "id": 16,
+      "nombre": "Smartwatch",
+      "descripcion": "Reloj inteligente con monitor de actividad",
+      "precio": 130.00,
+      "stock": 40,
+      "categoria": "Electrónica",
+      "fecha_ingreso": "2023-06-21"
+    },
+    {
+      "id": 17,
+      "nombre": "USB 64GB",
+      "descripcion": "Memoria USB de 64GB",
+      "precio": 20.50,
+      "stock": 100,
+      "categoria": "Almacenamiento",
+      "fecha_ingreso": "2023-09-05"
+    },
+    {
+      "id": 18,
+      "nombre": "Micrófono",
+      "descripcion": "Micrófono de condensador para grabación",
+      "precio": 150.75,
+      "stock": 30,
+      "categoria": "Audio",
+      "fecha_ingreso": "2023-07-10"
+    },
+    {
+      "id": 19,
+      "nombre": "Batería externa",
+      "descripcion": "Batería externa de 10000mAh",
+      "precio": 45.99,
+      "stock": 70,
+      "categoria": "Accesorios",
+      "fecha_ingreso": "2023-08-20"
+    },
+    {
+      "id": 20,
+      "nombre": "Cargador inalámbrico",
+      "descripcion": "Cargador inalámbrico rápido",
+      "precio": 25.75,
+      "stock": 80,
+      "categoria": "Accesorios",
+      "fecha_ingreso": "2023-06-30"
+    },
+    {
+      "id": 21,
+      "nombre": "Cámara de seguridad",
+      "descripcion": "Cámara de seguridad IP para exteriores",
+      "precio": 200.50,
+      "stock": 20,
+      "categoria": "Seguridad",
+      "fecha_ingreso": "2023-09-01"
+    },
+    {
+      "id": 22,
+      "nombre": "Ventilador portátil",
+      "descripcion": "Ventilador portátil recargable",
+      "precio": 30.99,
+      "stock": 40,
+      "categoria": "Hogar",
+      "fecha_ingreso": "2023-07-06"
+    },
+    {
+      "id": 23,
+      "nombre": "Consola de videojuegos",
+      "descripcion": "Consola de videojuegos de última generación",
+      "precio": 500.00,
+      "stock": 15,
+      "categoria": "Electrónica",
+      "fecha_ingreso": "2023-08-25"
+    },
+    {
+      "id": 24,
+      "nombre": "Tarjeta gráfica",
+      "descripcion": "Tarjeta gráfica de alto rendimiento",
+      "precio": 600.75,
+      "stock": 10,
+      "categoria": "Componentes",
+      "fecha_ingreso": "2023-09-12"
+    },
+    {
+      "id": 25,
+      "nombre": "SSD 512GB",
+      "descripcion": "Unidad SSD de 512GB",
+      "precio": 150.00,
+      "stock": 50,
+      "categoria": "Almacenamiento",
+      "fecha_ingreso": "2023-07-27"
+    },
+    {
+      "id": 26,
+      "nombre": "Televisor 55 pulgadas",
+      "descripcion": "Televisor 4K de 55 pulgadas",
+      "precio": 800.00,
+      "stock": 10,
+      "categoria": "Electrónica",
+      "fecha_ingreso": "2023-06-17"
+    },
+    {
+      "id": 27,
+      "nombre": "Cafetera",
+      "descripcion": "Cafetera de cápsulas automática",
+      "precio": 120.75,
+      "stock": 25,
+      "categoria": "Hogar",
+      "fecha_ingreso": "2023-08-30"
+    },
+    {
+      "id": 28,
+      "nombre": "Tostadora",
+      "descripcion": "Tostadora de pan de 4 rebanadas",
+      "precio": 45.50,
+      "stock": 40,
+      "categoria": "Hogar",
+      "fecha_ingreso": "2023-07-12"
+    },
+    {
+      "id": 29,
+      "nombre": "Purificador de aire",
+      "descripcion": "Purificador de aire con filtro HEPA",
+      "precio": 220.99,
+      "stock": 30,
+      "categoria": "Hogar",
+      "fecha_ingreso": "2023-09-07"
+    },
+    {
+      "id": 30,
+      "nombre": "Plancha de vapor",
+      "descripcion": "Plancha de vapor para ropa",
+      "precio": 65.00,
+      "stock": 35,
+      "categoria": "Hogar",
+      "fecha_ingreso": "2023-08-18"
+    },
+    {
+      "id": 31,
+      "nombre": "Cepillo eléctrico",
+      "descripcion": "Cepillo de dientes eléctrico recargable",
+      "precio": 80.25,
+      "stock": 40,
+      "categoria": "Hogar",
+      "fecha_ingreso": "2023-07-03"
+    },
+    {
+      "id": 32,
+      "nombre": "Freidora de aire",
+      "descripcion": "Freidora de aire de 5 litros",
+      "precio": 150.75,
+      "stock": 20,
+      "categoria": "Hogar",
+      "fecha_ingreso": "2023-09-11"
+    },
+    {
+      "id": 33,
+      "nombre": "Reloj de pared",
+      "descripcion": "Reloj de pared decorativo",
+      "precio": 35.99,
+      "stock": 50,
+      "categoria": "Hogar",
+      "fecha_ingreso": "2023-06-10"
+    },
+    {
+      "id": 34,
+      "nombre": "Colchón ortopédico",
+      "descripcion": "Colchón ortopédico de espuma viscoelástica",
+      "precio": 350.00,
+      "stock": 15,
+      "categoria": "Hogar",
+      "fecha_ingreso": "2023-07-20"
+    },
+    {
+      "id": 35,
+      "nombre": "Mochila de viaje",
+      "descripcion": "Mochila de viaje impermeable",
+      "precio": 60.75,
+      "stock": 70,
+      "categoria": "Accesorios",
+      "fecha_ingreso": "2023-08-01"
+    },
+    {
+      "id": 36,
+      "nombre": "Bicicleta estática",
+      "descripcion": "Bicicleta estática para ejercicio",
+      "precio": 450.00,
+      "stock": 10,
+      "categoria": "Deportes",
+      "fecha_ingreso": "2023-07-17"
+    },
+    {
+      "id": 37,
+      "nombre": "Zapatillas deportivas",
+      "descripcion": "Zapatillas deportivas de running",
+      "precio": 90.50,
+      "stock": 50,
+      "categoria": "Deportes",
+      "fecha_ingreso": "2023-08-23"
+    },
+    {
+      "id": 38,
+      "nombre": "Raqueta de tenis",
+      "descripcion": "Raqueta de tenis profesional",
+      "precio": 120.00,
+      "stock": 20,
+      "categoria": "Deportes",
+      "fecha_ingreso": "2023-09-14"
+    },
+    {
+      "id": 39,
+      "nombre": "Mancuernas",
+      "descripcion": "Mancuernas ajustables de 10 kg",
+      "precio": 80.99,
+      "stock": 30,
+      "categoria": "Deportes",
+      "fecha_ingreso": "2023-07-29"
+    },
+    {
+      "id": 40,
+      "nombre": "Cinta de correr",
+      "descripcion": "Cinta de correr plegable",
+      "precio": 600.75,
+      "stock": 10,
+      "categoria": "Deportes",
+      "fecha_ingreso": "2023-06-23"
+    },
+    {
+      "id": 41,
+      "nombre": "Pesa rusa",
+      "descripcion": "Pesa rusa de 15 kg",
+      "precio": 70.50,
+      "stock": 25,
+      "categoria": "Deportes",
+      "fecha_ingreso": "2023-09-19"
+    },
+    {
+      "id": 42,
+      "nombre": "Balón de fútbol",
+      "descripcion": "Balón de fútbol de cuero sintético",
+      "precio": 35.00,
+      "stock": 60,
+      "categoria": "Deportes",
+      "fecha_ingreso": "2023-08-28"
+    },
+    {
+      "id": 43,
+      "nombre": "Patineta",
+      "descripcion": "Patineta de madera con ruedas de goma",
+      "precio": 100.25,
+      "stock": 15,
+      "categoria": "Deportes",
+      "fecha_ingreso": "2023-07-02"
+    },
+    {
+      "id": 44,
+      "nombre": "Guitarra acústica",
+      "descripcion": "Guitarra acústica de madera",
+      "precio": 250.00,
+      "stock": 20,
+      "categoria": "Instrumentos",
+      "fecha_ingreso": "2023-06-25"
+    },
+    {
+      "id": 45,
+      "nombre": "Teclado musical",
+      "descripcion": "Teclado musical con 61 teclas",
+      "precio": 300.75,
+      "stock": 10,
+      "categoria": "Instrumentos",
+      "fecha_ingreso": "2023-09-03"
+    },
+    {
+      "id": 46,
+      "nombre": "Batería electrónica",
+      "descripcion": "Batería electrónica portátil",
+      "precio": 500.50,
+      "stock": 5,
+      "categoria": "Instrumentos",
+      "fecha_ingreso": "2023-08-07"
+    },
+    {
+      "id": 47,
+      "nombre": "Bajo eléctrico",
+      "descripcion": "Bajo eléctrico de 4 cuerdas",
+      "precio": 400.00,
+      "stock": 8,
+      "categoria": "Instrumentos",
+      "fecha_ingreso": "2023-06-19"
+    },
+    {
+      "id": 48,
+      "nombre": "Piano digital",
+      "descripcion": "Piano digital con teclas contrapesadas",
+      "precio": 800.00,
+      "stock": 6,
+      "categoria": "Instrumentos",
+      "fecha_ingreso": "2023-07-08"
+    },
+    {
+      "id": 49,
+      "nombre": "Cajón peruano",
+      "descripcion": "Cajón peruano de madera",
+      "precio": 150.75,
+      "stock": 12,
+      "categoria": "Instrumentos",
+      "fecha_ingreso": "2023-08-03"
+    },
+    {
+      "id": 50,
+      "nombre": "Saxofón",
+      "descripcion": "Saxofón alto de latón",
+      "precio": 900.00,
+      "stock": 5,
+      "categoria": "Instrumentos",
+      "fecha_ingreso": "2023-09-16"
+    }
+  ]
+  

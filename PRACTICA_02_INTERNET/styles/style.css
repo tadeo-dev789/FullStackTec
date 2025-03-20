@@ -1,0 +1,59 @@
+/* Fondo degradado para la página */
+body {
+    background: linear-gradient(135deg, #2C3E50, #4CA1AF);
+    color: #ffffff;
+    font-family: 'Arial', sans-serif;
+}
+
+
+/* Título centrado con sombra */
+.titulo {
+    font-size: 2.5rem;
+    font-weight: bold;
+    text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+}
+
+/* Botón mejorado con animación */
+#cargarDatos {
+    background-color: #27ae60;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    transition: 0.3s ease-in-out;
+    border-radius: 10px;
+}
+
+#cargarDatos:hover {
+    background-color: #2ecc71;
+    transform: scale(1.1);
+}
+
+/* Tabla estilizada */
+.table {
+    background: #ffffff;
+    color: #000;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+/* Encabezado oscuro de la tabla */
+.table-dark th {
+    background-color: #222f3e !important;
+    color: #ffffff !important;
+}
+
+/* Efecto hover en filas */
+.table-hover tbody tr:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+/* Imágenes con sombra y bordes redondeados */
+.table img {
+    width: 80px;
+    height: auto;
+    display: block;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
